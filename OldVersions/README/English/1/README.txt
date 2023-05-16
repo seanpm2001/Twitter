@@ -25,6 +25,14 @@ I haven't really been active on Twitter since 2018 November 3rd, and I have no p
 
 When I first used Twitter, it was 2016. I was in my social media era, and didn't really create anything worthwhile, just morning, afternoon, evening, and night posts, along with something else from time to time. It isn't the most exciting account. I created over 10000 tweets in less than 2 years.
 
+### Perisope
+
+| <img alt="Periscope logo failed to load. Click/tap here to attempt to view it" src="/Periscope_Logo.svg" width="256" height="256"/> |
+|---|
+| Periscope logo |
+
+I briefly used Periscope in the past, but not for very long. I never posted to it. It was a very short fad in my household.
+
 ### Accounts
 
 I had several (6) accounts on Twitter:
@@ -50,6 +58,8 @@ When going back to write this, I have noted that about 1000+ of the accounts I f
 
 When I created my Twitter account, I was automatically followed to a lot of bad accounts, and I unfollowed the ones I could. Some remain.
 
+
+
 ## Since Elon Musk takeover
 
 I had already been a dead account on Twitter for nearly 2 full years when Elon Musk completed his hostile takeover of Twitter.
@@ -65,7 +75,6 @@ Elon Musk bought twitter on 2022, October 27th and it has been getting worse and
 - 2022 November 16th: it is done
 
 Side comment (2022 November 29th) I am surprised as to how Musk keeps shooting himself in the foot harder each time
-
 
 ### Removing links
 
@@ -92,6 +101,6 @@ Elon Musk and plans to never return
 
 ***
 
-**File version:** `1 (2023, Monday, May 15th at 4:40 pm PST)`
+**File version:** `2 (2023, Monday, May 15th at0 7:30 pm PST)`
 
 ***
